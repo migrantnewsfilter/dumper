@@ -1,0 +1,2 @@
+0  0   *   *   *  env - `cat /scripts/env` /scripts/dump.sh 2>> /var/log/cron.log
+#
